@@ -6,7 +6,7 @@
 //  Copyright © 2017 voluntadpear. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for ReSwiftUndo.
 FOUNDATION_EXPORT double ReSwiftUndoVersionNumber;

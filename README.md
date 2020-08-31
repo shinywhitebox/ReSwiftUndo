@@ -5,6 +5,12 @@
 # ReSwiftUndo
 Swift implementation of [redux-undo](https://github.com/omnidan/redux-undo) for Swift to use with [ReSwift](https://github.com/ReSwift/ReSwift) 4.0
 
+# Neils Comments
+
+The only things I've done are:
+- modify the podspec to be :osx (and remove an unused UIKit header)
+- up the ReSwift dep to 5.0+
+
 ***Work in progress***
 
 ## Use
